@@ -11,11 +11,11 @@
 - What problem does it solve?
 - What did you learn? -->
 
-### User Story
+<!-- ### User Story -->
 
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
+AS A Web developer,
+I WANT to create notes or code snippets with or without an internet connection,
+SO THAT I can reliably retrieve them for later use.
 
 ## Table of Contents (Optional)
 
@@ -27,6 +27,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
+
+To install `My-Text-Editor` just click the The URL of the deployed application.
 
 <!-- What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running. -->
 
